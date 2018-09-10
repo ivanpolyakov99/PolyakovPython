@@ -12,5 +12,3 @@ else:
         c = c * (n % 10)
         n = n // 10
     print("Amount :", int(s), "\nComposition :", int(c))
-
-
